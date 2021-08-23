@@ -10,9 +10,23 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@vue/compiler-sfc": "^3.2.4",
         "axios": "^0.21",
+        "browser-sync": "^2.27.5",
+        "browser-sync-webpack-plugin": "2.3.0",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "4.0.0",
+        "sass": "^1.38.0",
+        "sass-loader": "12.1.0",
+        "vue-loader": "^16.5.0",
+        "webpack-livereload-plugin": "^3.0.1"
+    },
+    "dependencies": {
+        "vue": "^3.2.4",
+        "vue-router": "4",
+        "vue3-form-validation": "^4.1.1",
+        "vuex": "^4.0.2"
     }
 }

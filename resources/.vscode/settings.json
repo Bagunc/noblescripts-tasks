@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 18,
+  "workbench.colorTheme": "Tomorrow Operator Mono",
+  "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
+  "compile-hero.disable-compile-files-on-did-save-code": true
+}
